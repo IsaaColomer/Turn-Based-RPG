@@ -23,8 +23,11 @@
    an action.
 
 ### _2.3.- Phase Based Turns_
-   Also called We-Go, in this class of combat there are two distinct phases: decision phase and execution phase. In the decision phase each
+   Also called We-Go, in this class of combat there are two distinct phases: decision phase and execution phase. In the    decision phase each
    player decides that they will do their units, in the execution phase the units perform the previously chosen actions simultaneously.
+   
+### _2.4.- Clock-Based Turns_
+All the actions of all the players are directly linked to the game clock.
 
 ### _2.4.- Unit initiative_
    In this case the sequence of attacks depends on the initiative, which is an attribute of each unit.
