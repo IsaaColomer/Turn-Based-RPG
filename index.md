@@ -19,19 +19,28 @@ The random ones in which the first player is decided randomly.
 
 ## Different kinds of turn-based combat systems:
 
-Active Time Battle, first introduced by Hiroyuki Ito in Final Fantasy IV, also in Chrono Trigger, he turns of the people playing are determined by a counter that is restarted each time an action is performed.
+### Active Time Battle
+First introduced by Hiroyuki Ito in Final Fantasy IV, also in Chrono Trigger, he turns of the people playing are determined by a counter that is restarted each time an action is performed.
 
-Timed Turns, this methodology exists to solve a question, how long a player's turn can last? Basically, each player has a limited time to perform an action.
+### Timed Turns
+This methodology exists to solve a question, how long a player's turn can last? Basically, each player has a limited time to perform an action.
 
-Clock Based Turns, also called We-Go, in this class of combat there are two distinct phases: decision phase and execution phase. In the decision phase each player decides that they will do their units, in the execution phase the units perform the previously chosen actions simultaneously.
+### Clock Based Turns
+Also called We-Go, in this class of combat there are two distinct phases: decision phase and execution phase. In the decision phase each player decides that they will do their units, in the execution phase the units perform the previously chosen actions simultaneously.
 
-Unit initiative, in this case the sequence of attacks depends on the initiative, which is an attribute of each unit.
+### Unit initiative
+In this case the sequence of attacks depends on the initiative, which is an attribute of each unit.
 
-Actions outside a turn, in some games like the saga X-How the players are allowed to act outside their turn, to be able to do it each unit must have, a minimum amount of points to be able to interrupt the other player and the actions that can carry out are limited by the number of points of the unit.
+### Actions outside a turn
+In some games like the saga X-How the players are allowed to act outside their turn, to be able to do it each unit must have, a minimum amount of points to be able to interrupt the other player and the actions that can carry out are limited by the number of points of the unit.
 
-Special phases or actions, in some turns players are required to follow certain rules set by the game, such as not attacking or moving all units.
+### Special phases or actions
+In some turns players are required to follow certain rules set by the game, such as not attacking or moving all units.
 
-Classic Turn Based Game, the person playing can spend all the time they want thinking about how to execute their next action, nothing in the game will move until they decide what to do.
+### Classic Turn Based Game
+Players playing can spend all the time they want thinking about how to execute their next action, nothing in the game will move until they decide what to do.
+
+## Real-Time Based Games
 
 In another sphere, real-time based games the player timer matches with the game timer, that means that the action in the game is continued.
 
