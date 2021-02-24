@@ -2,7 +2,6 @@
   There are two differentiated classes:
      - Simultaneous.
      - Sequential.
-
   Simultaneous games are those in which players make decisions without knowing what other players have decided to do.
   Sequential games, also called IGOUGO, can be subdivided into three sections, ranked, round-robin start, and random.
 
