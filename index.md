@@ -87,19 +87,23 @@ The most popular games that followed this formula are:
 It was in Final Fantasy IV, 1991, where we could see for the first time the Active Time Battle, designed by Hiroyuki Ito. Which was a more action-based
 approach to the previous design of combat.
 
+![Image3](Img/FinalFantasyIV.png) [Link](https://en.wikipedia.org/wiki/Final_Fantasy_IV#/media/File:Ff4wiki.PNG)
+
 Another game we should talk about is Super Mario RPG which incorporated new mechanic into the turn-based RPG scene. Timed hits in order to do more damage
 to your opponents. This addition made the fights more entertaining as it incorporated a "mini-game" within each fight. Another game that also used this
 system is Suikoden II.
+
+![Image4](Img/SuperMarioRpg.png) [Link](https://en.wikipedia.org/wiki/Super_Mario_RPG#/media/File:Super_Mario_RPG_battle.png)
 
 Other games that should be mentioned in this era are:
 
 -	Tactics Ogre: Let us Cling Together (1995).
 
-![Image3](Img/TacticsOgre.png) [Link](https://en.wikipedia.org/wiki/Tactics_Ogre:_Let_Us_Cling_Together#/media/File:Tactics_orge_ps1.png)
+![Image5](Img/TacticsOgre.png) [Link](https://en.wikipedia.org/wiki/Tactics_Ogre:_Let_Us_Cling_Together#/media/File:Tactics_orge_ps1.png)
 
 -	Final Fantasy Tactics (1998).
 
-![Image4](Img/FinalFantasyTactics.png) [Link](https://en.wikipedia.org/wiki/Final_Fantasy_Tactics#/media/File:BattleGrid.jpg)
+![Image6](Img/FinalFantasyTactics.png) [Link](https://en.wikipedia.org/wiki/Final_Fantasy_Tactics#/media/File:BattleGrid.jpg)
 
 It was from the 2000s when action RPGs began to dominate the market with games like Kingdom Hearts and Souls. Some of the changes that made RPG games
 in that time where focusing the combat in a more action-based style.
