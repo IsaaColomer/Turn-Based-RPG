@@ -1,7 +1,7 @@
 ## _1.- Differences in turn-based games:_
   There are two differentiated classes:
-     - Simultaneous.
-     - Sequential.
+  - Simultaneous.
+  - Sequential.
 
 
   Simultaneous games are those in which players make decisions without knowing what other players have decided to do.
