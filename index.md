@@ -29,26 +29,26 @@
 ### _2.4.- Clock-Based Turns_
 All the actions of all the players are directly linked to the game clock.
 
-### _2.4.- Unit initiative_
+### _2.5.- Unit initiative_
    In this case the sequence of attacks depends on the initiative, which is an attribute of each unit.
 
-### _2.5.- Actions outside a turn_
+### _2.6.- Actions outside a turn_
    In some games like the saga X-How the players are allowed to act outside their turn, to be able to do it each unit must have, a minimum
    amount of points to be able to interrupt the other player and the actions that can carry out are limited by the number of points of the
    unit.
 
-### _2.6.- Special phases or actions_
+### _2.7.- Special phases or actions_
    In some turns players are required to follow certain rules set by the game, such as not attacking or moving all units.
 
-### _2.7.- Classic Turn Based Game_
+### _2.8.- Classic Turn Based Game_
    Players playing can spend all the time they want thinking about how to execute their next action, nothing in the game will move until
    they decide what to do.
 
-### _2.8.- Real-Time Based Games_
+### _2.9.- Real-Time Based Games_
    In another sphere, real-time based games the player timer matches with the game timer, that means that the action in the game is
    continued.
 
-### _2.9.- Extra Point_
+### _2.10.- Extra Point_
    It must be said that many games have a combination of real-time and turn-based combat. Such as Total War and Jagged Alliance 2.
 
 ## _3.- Pros & Cons_
