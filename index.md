@@ -14,7 +14,7 @@
 
 ## _2.- Different kinds of turn-based combat systems:_
 
-### _2.1.- Classic Turn Based Game_
+### _2.1.- Classic Turn-Based Game_
    Players playing can spend all the time they want thinking about how to execute their next action, nothing in the game will move until
    they decide what to do.
    
@@ -26,7 +26,7 @@
    This methodology exists to solve a question, how long a player's turn can last? Basically, each player has a limited time to perform
    an action.
 
-### _2.4.- Phase Based Turns_
+### _2.4.- Phase-Based Turns_
    Also called We-Go, in this class of combat there are two distinct phases: decision phase and execution phase. In the    decision phase each
    player decides that they will do their units, in the execution phase the units perform the previously chosen actions simultaneously.
    
