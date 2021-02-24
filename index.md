@@ -17,7 +17,7 @@
    Players playing can spend all the time they want thinking about how to execute their next action, nothing in the game will move until
    they decide what to do.
    
- ### _2.2. Active Time Battle_
+### _2.2. Active Time Battle_
    First introduced by Hiroyuki Ito in Final Fantasy IV, also in Chrono Trigger, he turns of the people playing are determined by
    a counter that is restarted each time an action is performed.
 
