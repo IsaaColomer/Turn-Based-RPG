@@ -71,8 +71,11 @@ All the actions of all the players are directly linked to the game clock.
 If we have to talk about the history of turn-based combat in RPGs we have to start talking about Final Fantasy (1986), which included the formula on
 which many games would be based. In a part of the screen are the enemies and in the other the members of your team, each with special abilities.
 The most popular games that followed this formula are:
--	Dragon Quest (or Warrior 1986) .
+
+-	Dragon Quest (or Warrior 1986).
 -	Pokémon (1996).
+
+![Image1](https://github.com/IsaaColomer/Turn-Based-RPG/blob/gh-pages/Img/DragonQuest.png)
 
 It was in Final Fantasy IV, 1991, where we could see for the first time the Active Time Battle, designed by Hiroyuki Ito. Which was a more action-based
 approach to the previous design of combat.
