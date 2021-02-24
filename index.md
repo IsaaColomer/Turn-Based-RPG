@@ -94,7 +94,12 @@ system is Suikoden II.
 Other games that should be mentioned in this era are:
 
 -	Tactics Ogre: Let us Cling Together (1995).
+
+![Image3](Img/TacticsOgre.png) [Link](https://en.wikipedia.org/wiki/Tactics_Ogre:_Let_Us_Cling_Together#/media/File:Tactics_orge_ps1.png)
+
 -	Final Fantasy Tactics (1998).
+
+![Image4](Img/FinalFantasyTactics.png) [Link](https://en.wikipedia.org/wiki/Final_Fantasy_Tactics#/media/File:BattleGrid.jpg)
 
 It was from the 2000s when action RPGs began to dominate the market with games like Kingdom Hearts and Souls. Some of the changes that made RPG games
 in that time where focusing the combat in a more action-based style.
