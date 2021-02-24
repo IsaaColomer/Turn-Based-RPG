@@ -80,6 +80,7 @@ system is Suikoden II.
 Other games that should be mentioned for this era are:
 -	Tactics Ogre: Let us Cling Together 
 -	Final Fantasy Tactics.
+
 It was from the 2000s when action RPGs began to dominate the market with games like Kingdom Hearts and Souls.
 Final Fantasy tried to avoid this change with the release of Final Fantasy X but this was the last title that of the popular franchise that was 100% turn-based.
 
