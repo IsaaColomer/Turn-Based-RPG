@@ -19,7 +19,7 @@
 ## _2.- Different kinds of turn-based combat systems:_
 
   ### _2.1.- Active Time Battle_
-  -[First introduced by Hiroyuki Ito in Final Fantasy IV, also in Chrono Trigger, he turns of the people playing are determined by
+  - [First introduced by Hiroyuki Ito in Final Fantasy IV, also in Chrono Trigger, he turns of the people playing are determined by
    a counter that is restarted each time an action is performed.]
 
   ### _2.2.- Timed Turns_
