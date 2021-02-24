@@ -75,7 +75,7 @@ The most popular games that followed this formula are:
 -	Dragon Quest (or Warrior 1986).
 -	Pokémon (1996).
 
-![Image1] ![Image2](Img/PokemonRedAndBlue.png)
+![Image1](Img/DragonQuest.png) ![Image2](Img/PokemonRedAndBlue.png)
 
 It was in Final Fantasy IV, 1991, where we could see for the first time the Active Time Battle, designed by Hiroyuki Ito. Which was a more action-based
 approach to the previous design of combat.
