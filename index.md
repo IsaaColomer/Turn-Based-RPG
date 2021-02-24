@@ -73,8 +73,10 @@ which many games would be based. In a part of the screen are the enemies and in 
 The most popular games that followed this formula are:
 
 -	Dragon Quest (or Warrior 1986).
+-	
 ![Image1](Img/DragonQuest.png) [Link](https://en.wikipedia.org/wiki/Dragon_Quest_(video_game)#/media/File:Dragon_quest_battle_2.png)
 -	Pokémon (1996).
+-	
 ![Image2](Img/PokemonRedAndBlue.png) [Link](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red_and_Blue#/media/File:Bulbasaur_pokemon_red.png)
 
 It was in Final Fantasy IV, 1991, where we could see for the first time the Active Time Battle, designed by Hiroyuki Ito. Which was a more action-based
