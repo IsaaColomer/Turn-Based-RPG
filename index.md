@@ -1,5 +1,3 @@
-[Link](https://google.com)
-
 ## _1.- Differences in turn-based games:_
   There are two differentiated classes:
      - Simultaneous.
@@ -54,11 +52,33 @@ All the actions of all the players are directly linked to the game clock.
 ## _3.- Pros & Cons_
 
 ### _3.1. Pros_
-- The fact that there is no time limit for performing an action makes people who don’t like frantic games where you have to think and act fast able to enjoy this kind of games. This does not mean that the games are easy because in this class of games the AI must decide a smaller number of actions in comparison, for example, to the - AI of FPS games, and this means that you can code the AI to increase the difficulty in harder modes of the game.
+- The fact that there is no time limit for performing an action makes people who don’t like frantic games where you have to think and act fast
+  able to enjoy this kind of games. This does not mean that the games are easy because in this class of games the AI must decide a smaller number
+  of actions in comparison, for example, to the - AI of FPS games, and this means that you can code the AI to increase the difficulty in hardermodes
+  of the game.
 - In turn-based combat games the difficulty curve is suitable for each player as they can practice as many times as they want.
 
 ### _3.2. Cons_
 - It could be argued that they are unrealistic games because in a battle, for example, you do not have a certain amount of time to act.
   it can be debated whether turn-based combat games are more or less immersive than real-time combat games.
 - Real-time combat games are more multiplayer-friendly than turn-based games.
-History
+
+
+[Link](https://google.com)
+## History
+If we have to talk about the history of turn-based combat in RPGs we have to start talking about Final Fantasy, which included the formula on which
+many games would be based, in a part of the screen are the enemies and in the other the members of your team, each with special abilities. The most popular
+games that followed this formula are:
+-	Dragon Quest (or Warrior).
+-	Pokémon.
+It was in Final Fantasy IV, 1991, where we could see for the first time the Active Time Battle, designed by Hiroyuki Ito. Which was a more action-based
+approach to the previous design of combat.
+Another game we should talk about is Super Mario RPG which incorporated new mechanic into the turn-based RPG scene. Timed hits in order to do more damage
+to your opponents. This addition made the fights more entertaining as it incorporated a "mini-game" within each fight. Another game that also used this
+system is Suikoden II.
+Other games that should be mentioned for this era are:
+-	Tactics Ogre: Let us Cling Together 
+-	Final Fantasy Tactics.
+It was from the 2000s when action RPGs began to dominate the market with games like Kingdom Hearts and Souls.
+Final Fantasy tried to avoid this change with the release of Final Fantasy X but this was the last title that of the popular franchise that was 100% turn-based.
+
