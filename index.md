@@ -20,29 +20,36 @@ The random ones in which the first player is decided randomly.
 ## _2.- Different kinds of turn-based combat systems:_
 
 ### _2.1.- Active Time Battle_
-First introduced by Hiroyuki Ito in Final Fantasy IV, also in Chrono Trigger, he turns of the people playing are determined by a counter that is restarted each time an action is performed.
+First introduced by Hiroyuki Ito in Final Fantasy IV, also in Chrono Trigger, he turns of the people playing are determined by
+a counter that is restarted each time an action is performed.
 
 ### _2.2.- Timed Turns_
-This methodology exists to solve a question, how long a player's turn can last? Basically, each player has a limited time to perform an action.
+This methodology exists to solve a question, how long a player's turn can last? Basically, each player has a limited time to perform
+an action.
 
 ### _2.3.- Clock Based Turns_
-Also called We-Go, in this class of combat there are two distinct phases: decision phase and execution phase. In the decision phase each player decides that they will do their units, in the execution phase the units perform the previously chosen actions simultaneously.
+Also called We-Go, in this class of combat there are two distinct phases: decision phase and execution phase. In the decision phase each
+player decides that they will do their units, in the execution phase the units perform the previously chosen actions simultaneously.
 
 ### _2.4.- Unit initiative_
 In this case the sequence of attacks depends on the initiative, which is an attribute of each unit.
 
 ### _2.5.- Actions outside a turn_
-In some games like the saga X-How the players are allowed to act outside their turn, to be able to do it each unit must have, a minimum amount of points to be able to interrupt the other player and the actions that can carry out are limited by the number of points of the unit.
+In some games like the saga X-How the players are allowed to act outside their turn, to be able to do it each unit must have, a minimum
+amount of points to be able to interrupt the other player and the actions that can carry out are limited by the number of points of the
+unit.
 
 ### _2.6.- Special phases or actions_
 In some turns players are required to follow certain rules set by the game, such as not attacking or moving all units.
 
 ### _2.7.- Classic Turn Based Game_
-Players playing can spend all the time they want thinking about how to execute their next action, nothing in the game will move until they decide what to do.
+Players playing can spend all the time they want thinking about how to execute their next action, nothing in the game will move until
+they decide what to do.
 
 ## Real-Time Based Games
 
-In another sphere, real-time based games the player timer matches with the game timer, that means that the action in the game is continued.
+In another sphere, real-time based games the player timer matches with the game timer, that means that the action in the game is
+continued.
 
 It must be said that many games have a combination of real-time and turn-based combat. Such as Total War and Jagged Alliance 2.
 
