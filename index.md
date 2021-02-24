@@ -66,22 +66,28 @@ All the actions of all the players are directly linked to the game clock.
 
 [Link](https://google.com)
 ## History
-If we have to talk about the history of turn-based combat in RPGs we have to start talking about Final Fantasy, which included the formula on which
-many games would be based, in a part of the screen are the enemies and in the other the members of your team, each with special abilities. The most popular
-games that followed this formula are:
--	Dragon Quest (or Warrior).
--	Pokémon.
+
+If we have to talk about the history of turn-based combat in RPGs we have to start talking about Final Fantasy (1986), which included the formula on
+which many games would be based. In a part of the screen are the enemies and in the other the members of your team, each with special abilities.
+The most popular games that followed this formula are:
+-	Dragon Quest (or Warrior 1986) .
+-	Pokémon (1996).
 
 It was in Final Fantasy IV, 1991, where we could see for the first time the Active Time Battle, designed by Hiroyuki Ito. Which was a more action-based
 approach to the previous design of combat.
+
 Another game we should talk about is Super Mario RPG which incorporated new mechanic into the turn-based RPG scene. Timed hits in order to do more damage
 to your opponents. This addition made the fights more entertaining as it incorporated a "mini-game" within each fight. Another game that also used this
 system is Suikoden II.
-Other games that should be mentioned for this era are:
--	Tactics Ogre: Let us Cling Together 
--	Final Fantasy Tactics.
 
+Other games that should be mentioned in this era are:
 
-It was from the 2000s when action RPGs began to dominate the market with games like Kingdom Hearts and Souls.
-Final Fantasy tried to avoid this change with the release of Final Fantasy X but this was the last title that of the popular franchise that was 100% turn-based.
+-	Tactics Ogre: Let us Cling Together (1995).
+-	Final Fantasy Tactics (1998).
+
+It was from the 2000s when action RPGs began to dominate the market with games like Kingdom Hearts and Souls. Some of the changes that made RPG games
+in that time where focusing the combat in a more action-based style.
+Final Fantasy tried to avoid this change with the release of Final Fantasy X but this was the last title that of the popular franchise that was 100%
+turn-based.
+
 
