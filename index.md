@@ -110,4 +110,4 @@ in that time where focusing the combat in a more action-based style.
 Final Fantasy tried to avoid this change with the release of Final Fantasy X but this was the last title that of the popular franchise that was 100%
 turn-based.
 
-
+![Image7](Img/FinalFantasyX.png) [Link](https://www.gamespot.com/reviews/final-fantasy-x-x-2-hd-remaster-review/1900-6415711/)
