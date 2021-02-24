@@ -49,6 +49,7 @@
    In another sphere, real-time based games the player timer matches with the game timer, that means that the action in the game is
    continued.
 
+ ### _2.9.- Extra Point_
    It must be said that many games have a combination of real-time and turn-based combat. Such as Total War and Jagged Alliance 2.
 
 ## _3.- Pros & Cons_
