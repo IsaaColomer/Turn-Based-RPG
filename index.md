@@ -71,6 +71,7 @@ many games would be based, in a part of the screen are the enemies and in the ot
 games that followed this formula are:
 -	Dragon Quest (or Warrior).
 -	Pokémon.
+
 It was in Final Fantasy IV, 1991, where we could see for the first time the Active Time Battle, designed by Hiroyuki Ito. Which was a more action-based
 approach to the previous design of combat.
 Another game we should talk about is Super Mario RPG which incorporated new mechanic into the turn-based RPG scene. Timed hits in order to do more damage
