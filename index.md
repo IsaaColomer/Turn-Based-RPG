@@ -53,14 +53,12 @@
 
 ## _3.- Pros & Cons_
 
-Pros:
-The fact that there is no time limit for performing an action makes people who don’t like frantic games where you have to think and act fast able to enjoy this kind of games.
-This does not mean that the games are easy because in this class of games the AI must decide a smaller number of actions in comparison, for example, to the AI of FPS games, and this means that you can code the AI to increase the difficulty in harder modes of the game.
-In turn-based combat games the difficulty curve is suitable for each player as they can practice as many times as they want.
+### _3.1.- Pros_
+- The fact that there is no time limit for performing an action makes people who don’t like frantic games where you have to think and act fast able to enjoy this kind of games. This does not mean that the games are easy because in this class of games the AI must decide a smaller number of actions in comparison, for example, to the - AI of FPS games, and this means that you can code the AI to increase the difficulty in harder modes of the game.
+- In turn-based combat games the difficulty curve is suitable for each player as they can practice as many times as they want.
 
-Cons:
-
-It could be argued that they are unrealistic games because in a battle, for example, you do not have a certain amount of time to act.
-it can be debated whether turn-based combat games are more or less immersive than real-time combat games.
-Real-time combat games are more multiplayer-friendly than turn-based games.
+### _3.2.- Cons_
+- It could be argued that they are unrealistic games because in a battle, for example, you do not have a certain amount of time to act.
+  it can be debated whether turn-based combat games are more or less immersive than real-time combat games.
+- Real-time combat games are more multiplayer-friendly than turn-based games.
 History
