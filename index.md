@@ -51,7 +51,7 @@
 
   It must be said that many games have a combination of real-time and turn-based combat. Such as Total War and Jagged Alliance 2.
 
-## Pros & Cons
+## _3.- Pros & Cons_
 
 Pros:
 The fact that there is no time limit for performing an action makes people who don’t like frantic games where you have to think and act fast able to enjoy this kind of games.
