@@ -22,7 +22,7 @@
    This methodology exists to solve a question, how long a player's turn can last? Basically, each player has a limited time to perform
    an action.
 
-### _2.3.- Clock Based Turns_
+### _2.3.- Phase Based Turns_
    Also called We-Go, in this class of combat there are two distinct phases: decision phase and execution phase. In the decision phase each
    player decides that they will do their units, in the execution phase the units perform the previously chosen actions simultaneously.
 
