@@ -46,8 +46,7 @@ In some turns players are required to follow certain rules set by the game, such
 Players playing can spend all the time they want thinking about how to execute their next action, nothing in the game will move until
 they decide what to do.
 
-## Real-Time Based Games
-
+### _2.8.- Real-Time Based Games_
 In another sphere, real-time based games the player timer matches with the game timer, that means that the action in the game is
 continued.
 
