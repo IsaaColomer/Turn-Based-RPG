@@ -123,10 +123,16 @@ is a system of "types" that defines the characteristics of each pokemon.
 
 Depending on the type of pokemon, it will have certain advantages and disadvantages over other types of pokemon.
 
-This conditions the combat since if they face two pokemon, for example fire against water, the one that has the advantage of the type will have a clear
+This conditions the combat since if they face two pokemon, for example fire type against water type, the one that has the advantage of the type will have a clear
 advantage with respect to its opponent.
 
 On the other hand there is the pokemon skills factor. There are two kinds of movements:
 
 - Those that directly harm the enemy.
 - Those that modify the characteristics of both the pokémon itself and that of the opponent.
+
+It should be mentioned that in the middle of the fight the trainers can decide to change the pokémon that is fighting or cure the one that is in the battlefield.
+
+With these three factors, a combat system is built that is easy to understand but difficult to master, as all the previously mentioned conditions must be taken into
+account.
+
