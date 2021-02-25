@@ -158,6 +158,10 @@ The special attacks of the game usually have small areas so if you are lucky eno
 
 ![Image9](Img/ChronoTriggerBattle.png) [Link](https://extralifereviews.files.wordpress.com/2015/06/chrono-trigger-and-final-fantasy-vi-battle-comparison.png)
 
+### _5.3 Epic Seven_
+Epic Seven was released in 2018 for both IOS and Android, was created by Super Creative and published by Smilegate Megport.
+
+
 ## _6.- Bibliography_
 - [Chrono Trigger’s Excellent Battle System Returns](https://kotaku.com/chrono-trigger-s-excellent-battle-system-returns-1764916527).
 - [Turn based Combat System](https://evennia.readthedocs.io/en/latest/Turn-based-Combat-System.html).
