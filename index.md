@@ -114,7 +114,7 @@ turn-based.
 
 ## _4.- Game analysis:_
 
-In this space we will analize some important games in the RPG genre.
+In this space we will analize the combat system of some important games in the RPG genre.
 
 ### _4.1 Pokémon_
 
