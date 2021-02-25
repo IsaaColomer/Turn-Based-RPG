@@ -122,7 +122,7 @@ In this space we will analize the combat system of some important games in the R
 Pokémon combat falls into the classic genre, this means that it first attacks the fastest pokémon and then the opposite. In this saga we find that there
 is a system of "types" that defines the characteristics of each pokemon.
 
-Depending on the type of pokemon, it will have certain advantages and disadvantages over other types of pokemon.
+Depending on the type of pokemon, it will have certain advantages and disadvantages over other types.
 
 This conditions the combat since if they face two pokemon, for example fire type against water type, the one that has the advantage of the type will have a clear
 advantage with respect to its opponent.
@@ -160,6 +160,35 @@ The special attacks of the game usually have small areas so if you are lucky eno
 
 ### _5.3 Epic Seven_
 Epic Seven was released in 2018 for both IOS and Android, was created by Super Creative and published by Smilegate Megport.
+
+The combat system is based in the active time battle system, but in this case the ammount of time each character has to wait between attacks is descripted by their velocity stats.
+
+In this game we have six different types of what are called heroes.
+
+- Warrior: straightforward melee combat, caracterised by it's high damage.
+- Knight: tank and support, are the ones incharged of keeping alive all the other units.
+- Thief: high attack and high speed, usually deal criticall damage.
+- Mage: damage dealers, support, it all deppends on the character and their kit.
+- Ranger: more foccused to deal damaged through debuffs and dual attacks.
+- Soul Weaver: heal the other characters, but can also be used as a tank.
+
+The combat system in Epic Seven is based in the traditional game Rock-Paper-Scissors. It is applied to five different elements:
+- Earth.
+- Fire.
+- Ice.
+- Light.
+- Dark.
+
+But in addition to that there's another layer of complexity, it's releated to the hitting system and this is how they are releated:
+
+- Normal Hits: are based on the Attach stat of the character.
+- Crushing Hits: apply 30% more of damage than a Normal Hit.
+- Miss Hit: have it's damage reduced in a 25%.
+- Critical Hits: are based on the Critical Hit Damage stat of the character.
+
+Every character can be equiped with armor and weapons which have their own quality ranking.
+
+All this things putted together end up being a complex combat system with lots of things to know and "tener en cuenta" in order to defeat all the enemies and players.
 
 
 ## _6.- Bibliography_
