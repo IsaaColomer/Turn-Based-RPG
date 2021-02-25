@@ -4,8 +4,8 @@
   - Sequential.
 
 
-  Simultaneous games are those in which players make decisions without knowing what other players have decided to do.
-  Sequential games, also called IGOUGO, can be subdivided into three sections, ranked, round-robin start, and random.
+  - Simultaneous games are those in which players make decisions without knowing what other players have decided to do.
+  - Sequential games, also called IGOUGO, can be subdivided into three sections, ranked, round-robin start, and random.
 
   - The **_ranked games_** are those in which the first player is the one who always starts first.
   - The **_round-robins_** are decided by elimination.
@@ -111,3 +111,22 @@ Final Fantasy tried to avoid this change with the release of Final Fantasy X but
 turn-based.
 
 ![Image7](Img/FinalFantasyX.png) [Link](https://www.gamespot.com/reviews/final-fantasy-x-x-2-hd-remaster-review/1900-6415711/)
+
+## _4.- Game analysis:_
+
+In this space we will analize some important games in the RPG genre.
+
+### _4.1 Pokémon_
+
+Pokémon combat falls into the classic genre, this means that it first attacks the fastest pokémon and then the opposite. In this saga we find that there
+is a system of "types" that defines the characteristics of each pokemon.
+
+Depending on the type of pokemon, it will have certain advantages and disadvantages over other types of pokemon.
+
+This conditions the combat since if they face two pokemon, for example fire against water, the one that has the advantage of the type will have a clear
+advantage with respect to its opponent.
+
+On the other hand there is the pokemon skills factor. There are two kinds of movements:
+
+- Those that directly harm the enemy.
+- Those that modify the characteristics of both the pokémon itself and that of the opponent.
