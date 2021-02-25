@@ -148,7 +148,7 @@ The game was published by Square Enix and designed by what was known as the drea
 
 - Yuji Horii, creator of Dragon Quest.
 
-- Akira Toriyama creator of Dragon Ball.
+- Akira Toriyama, creator of Dragon Ball.
 
 The combat in this game revolves around the Active Time Battle (ATB) system, in which you have to wait for the action bar of the different characters to be full in order to carry out an attack.
 
