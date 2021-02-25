@@ -155,3 +155,5 @@ The combat in this game revolves around the Active Time Battle (ATB) system, in 
 In the battles of Chrono Trigger more than one ally and an enemy participate in the Battlefield. This implies a layer of strategy since if you wait until all the action bars are full you will be able to realize three, or more, movements in a row, however, also implies that the enemies will have more time to attack you.
 
 The special attacks of the game usually have small areas so if you are lucky enough to have many enemies together you will inflict more damage, which adds another layer of strategy.
+
+![Image9](Img/ChronoTriggerBattle.png) [Link](https://extralifereviews.files.wordpress.com/2015/06/chrono-trigger-and-final-fantasy-vi-battle-comparison.png)
