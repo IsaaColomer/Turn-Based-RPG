@@ -63,7 +63,7 @@ All the actions of all the players are directly linked to the game clock.
 
 ### _3.2. Cons_
 - It could be argued that they are unrealistic games because in a battle, for example, you do not have a certain amount of time to act.
-  it can be debated whether turn-based combat games are more or less immersive than real-time combat games.
+- It can be debated whether turn-based combat games are more or less immersive than real-time combat games.
 - Real-time combat games are more multiplayer-friendly than turn-based games.
 
 
