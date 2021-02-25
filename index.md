@@ -190,6 +190,7 @@ Every character can be equiped with armor and weapons which have their own quali
 
 All this things putted together end up being a complex combat system with lots of things to know and "tener en cuenta" in order to defeat all the enemies and players.
 
+![Image10](Img/EpicSevenCombat.jpg.png) [Link](https://mmos.com/review/epic-seven)
 
 ## _6.- Bibliography_
 - [Chrono Trigger’s Excellent Battle System Returns](https://kotaku.com/chrono-trigger-s-excellent-battle-system-returns-1764916527).
