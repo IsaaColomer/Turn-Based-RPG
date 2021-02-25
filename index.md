@@ -66,7 +66,6 @@ All the actions of all the players are directly linked to the game clock.
 - Real-time combat games are more multiplayer-friendly than turn-based games.
 
 
-[Link](https://google.com)
 ## History
 
 If we have to talk about the history of turn-based combat in RPGs we have to start talking about Final Fantasy (1986), which included the formula on
