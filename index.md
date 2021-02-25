@@ -157,3 +157,18 @@ In the battles of Chrono Trigger more than one ally and an enemy participate in 
 The special attacks of the game usually have small areas so if you are lucky enough to have many enemies together you will inflict more damage, which adds another layer of strategy.
 
 ![Image9](Img/ChronoTriggerBattle.png) [Link](https://extralifereviews.files.wordpress.com/2015/06/chrono-trigger-and-final-fantasy-vi-battle-comparison.png)
+
+## _5.- Bibliography_
+[Chrono Trigger’s Excellent Battle System Returns](https://kotaku.com/chrono-trigger-s-excellent-battle-system-returns-1764916527).
+[Turn based Combat System](https://evennia.readthedocs.io/en/latest/Turn-based-Combat-System.html).
+[Turn-based strategy](https://en.wikipedia.org/wiki/Turn-based_strategy).
+[Juego por turnos](https://es.wikipedia.org/wiki/Juego_por_turnos).
+[Videojuego de estrategia por turnos](https://es.wikipedia.org/wiki/Videojuego_de_estrategia_por_turnos).
+[12 ways to improve turn-based RPG combat systems](https://www.gamasutra.com/blogs/CraigStern/20130411/190332/12_ways_to_improve_turnbased_RPG_combat_systems.php).
+[Turns, rounds and time-keeping systems in games](https://en.wikipedia.org/wiki/Turns,_rounds_and_time-keeping_systems_in_games#Turn-based).
+[Turn-Based](https://www.giantbomb.com/turn-based/3015-192/).
+[What Happened to Turn-Based Games?](https://web.archive.org/web/20130421013333/http:/www.firingsquad.com/games/tbgameseditorial/).
+[Analysis: Turn-Based Versus Real-Time](https://www.gamasutra.com/php-bin/news_index.php?story=25920).
+[Gameplay Design for Role-Playing Battle Systems](https://publications.lib.chalmers.se/records/fulltext/165277.pdf).
+[How to revamp the turn-based RPG combat system](https://gyglounge.com/revamping-turn-based-rpg-combat-final-fantasy-jrpg/).
+[Point - CounterPoint: Turn Based vs. Real Time Strategy](https://web.archive.org/web/20070226185919/http:/www.strategyplanet.com/features/articles/pcp-turnvsreal/).
