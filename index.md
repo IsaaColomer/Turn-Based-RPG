@@ -113,7 +113,7 @@ turn-based.
 
 ![Image7](Img/FinalFantasyX.png) [Link](https://www.gamespot.com/reviews/final-fantasy-x-x-2-hd-remaster-review/1900-6415711/)
 
-## _4.- Game analysis:_
+## _4.- Game combat analysis:_
 
 In this space we will analize the combat system of some important games in the RPG genre.
 
