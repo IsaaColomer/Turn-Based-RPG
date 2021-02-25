@@ -188,7 +188,7 @@ But in addition to that there's another layer of complexity, it's releated to th
 
 Every character can be equiped with armor and weapons which have their own quality ranking.
 
-All this things putted together end up being a complex combat system with lots of things to know and "tener en cuenta" in order to defeat all the enemies and players.
+All this things putted together end up being a complex combat system with lots of things to know and take into account in order to defeat all the enemies and players.
 
 ![Image10](Img/EpicSevenCombat.jpg.png) [Link](https://mmos.com/review/epic-seven)
 
