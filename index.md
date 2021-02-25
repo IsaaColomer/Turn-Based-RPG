@@ -171,4 +171,4 @@ The special attacks of the game usually have small areas so if you are lucky eno
 - [Analysis: Turn-Based Versus Real-Time](https://www.gamasutra.com/php-bin/news_index.php?story=25920).
 - [Gameplay Design for Role-Playing Battle Systems](https://publications.lib.chalmers.se/records/fulltext/165277.pdf).
 - [How to revamp the turn-based RPG combat system](https://gyglounge.com/revamping-turn-based-rpg-combat-final-fantasy-jrpg/).
-- [Point - CounterPoint: Turn Based vs. Real Time Strategy](https://web.archive.org/web/20070226185919/http:/www.strategyplanet.com/features/articles/pcp-    turnvsreal/).
+- [Point - CounterPoint: Turn Based vs. Real Time Strategy](https://web.archive.org/web/20070226185919/http:/www.strategyplanet.com/features/articles/pcp-turnvsreal/).
