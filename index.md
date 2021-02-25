@@ -138,3 +138,20 @@ With these three factors, a combat system is built that is easy to understand bu
 account.
 
 ![Image8](Img/PokemonGif.gif) [Link](https://as.com/meristation/2018/09/29/analisis/1538244073_579544.html)
+
+### _4.2 Chrono Trigger_
+Chrono Trigger was first published in 1995 and is considered one of the most important games in the RPG family.
+
+The game was published by Square Enix and designed by what was known as the dream team:
+
+- Hironobu Sakaguchi, creator of Final Fantasy.
+
+- Yuji Horii, creator of Dragon Quest.
+
+- Akira Toriyama creator of Dragon Ball.
+
+The combat in this game revolves around the Active Time Battle (ATB) system, in which you have to wait for the action bar of the different characters to be full in order to carry out an attack.
+
+In the battles of Chrono Trigger more than one ally and an enemy participate in the Battlefield. This implies a layer of strategy since if you wait until all the action bars are full you will be able to realize three, or more, movements in a row, however, also implies that the enemies will have more time to attack you.
+
+The special attacks of the game usually have small areas so if you are lucky enough to have many enemies together you will inflict more damage, which adds another layer of strategy.
