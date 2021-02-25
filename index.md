@@ -46,8 +46,8 @@ All the actions of all the players are directly linked to the game clock.
    In some turns players are required to follow certain rules set by the game, such as not attacking or moving all units.
 
 ### _2.9. Real-Time Based Games_
-   In another sphere, real-time based games the player timer matches with the game timer, that means that the action in the game is
-   continued.
+   In another sphere, real-time based games are those in which the player timer matches with the game timer, that means that the action in the game is
+   always continued.
 
 ### _2.10. Extra Point_
    It must be said that many games have a combination of real-time and turn-based combat. Such as Total War and Jagged Alliance 2.
