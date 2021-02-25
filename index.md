@@ -135,4 +135,4 @@ It should be mentioned that in the middle of the fight the trainers can decide t
 
 With these three factors, a combat system is built that is easy to understand but difficult to master, as all the previously mentioned conditions must be taken into
 account.
-![Image78(Img/PokemonGif.gif) [Link](https://as.com/meristation/2018/09/29/analisis/1538244073_579544.html)
+![Image8](Img/PokemonGif.gif) [Link](https://as.com/meristation/2018/09/29/analisis/1538244073_579544.html)
