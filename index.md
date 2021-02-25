@@ -34,7 +34,8 @@
 All the actions of all the players are directly linked to the game clock.
 
 ### _2.6. Unit initiative_
-   In this case the sequence of attacks depends on the initiative, which is an attribute of each unit.
+   In this case the sequence of attacks depends on the initiative, which is an attribute of each unit, this attribute, in some cases, isn't always
+   the same and can be modified during the battle.
 
 ### _2.7. Actions outside a turn_
    In some games like the saga X-How the players are allowed to act outside their turn, to be able to do it each unit must have, a minimum
