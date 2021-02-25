@@ -114,7 +114,7 @@ turn-based.
 
 ## _4.- Game analysis:_
 
-In this space we will analize some important games in the RPG genre.
+In this space we will analize the combat system of some important games in the RPG genre.
 
 ### _4.1 Pokémon_
 
@@ -130,9 +130,3 @@ On the other hand there is the pokemon skills factor. There are two kinds of mov
 
 - Those that directly harm the enemy.
 - Those that modify the characteristics of both the pokémon itself and that of the opponent.
-
-It should be mentioned that in the middle of the fight the trainers can decide to change the pokémon that is fighting or cure the one that is in the battlefield.
-
-With these three factors, a combat system is built that is easy to understand but difficult to master, as all the previously mentioned conditions must be taken into
-account.
-
