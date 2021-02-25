@@ -67,7 +67,7 @@ All the actions of all the players are directly linked to the game clock.
 - Real-time combat games are more multiplayer-friendly than turn-based games.
 
 
-## History
+## _4.- History_
 
 If we have to talk about the history of turn-based combat in RPGs we have to start talking about Final Fantasy (1986), which included the formula on
 which many games would be based. In a part of the screen are the enemies and in the other the members of your team, each with special abilities.
@@ -113,11 +113,11 @@ turn-based.
 
 ![Image7](Img/FinalFantasyX.png) [Link](https://www.gamespot.com/reviews/final-fantasy-x-x-2-hd-remaster-review/1900-6415711/)
 
-## _4.- Game combat analysis:_
+## _5.- Game combat analysis:_
 
 In this space we will analize the combat system of some important games in the RPG genre.
 
-### _4.1 Pokémon_
+### _5.1 Pokémon_
 
 Pokémon combat falls into the classic genre, this means that it first attacks the fastest pokémon and then the opposite. In this saga we find that there
 is a system of "types" that defines the characteristics of each pokemon.
@@ -139,7 +139,7 @@ account.
 
 ![Image8](Img/PokemonGif.gif) [Link](https://as.com/meristation/2018/09/29/analisis/1538244073_579544.html)
 
-### _4.2 Chrono Trigger_
+### _5.2 Chrono Trigger_
 Chrono Trigger was first published in 1995 and is considered one of the most important games in the RPG family.
 
 The game was published by Square Enix and designed by what was known as the dream team:
@@ -158,7 +158,7 @@ The special attacks of the game usually have small areas so if you are lucky eno
 
 ![Image9](Img/ChronoTriggerBattle.png) [Link](https://extralifereviews.files.wordpress.com/2015/06/chrono-trigger-and-final-fantasy-vi-battle-comparison.png)
 
-## _5.- Bibliography_
+## _6.- Bibliography_
 - [Chrono Trigger’s Excellent Battle System Returns](https://kotaku.com/chrono-trigger-s-excellent-battle-system-returns-1764916527).
 - [Turn based Combat System](https://evennia.readthedocs.io/en/latest/Turn-based-Combat-System.html).
 - [Turn-based strategy](https://en.wikipedia.org/wiki/Turn-based_strategy).
