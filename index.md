@@ -1,3 +1,11 @@
+##_Index_
+### _1.- Differences in turn-based games_
+### _2.- Different kinds of turn-based combat systems_
+### _3.- Pros & Cons_
+### _4.- History_
+### _5.- Game combat analysis_
+## _6.- Bibliography_
+
 ## _1.- Differences in turn-based games:_
   There are two differentiated classes:
   
@@ -68,12 +76,12 @@ All the actions of all the players are linked to the game clock. The duration of
 ### _2.10. Extra Point_
    It must be said that many games have a combination of real-time and turn-based combat. Such as Total War and Jagged Alliance 2.
 
-## _3.- Pros & Cons_
+## _3.- Pros & Cons:_
 
 ### _3.1. Pros_
 - The fact that there is no time limit for performing an action makes people who don’t like frantic games where you have to think and act fast
   able to enjoy this kind of games. This does not mean that the games are easy because in this class of games the AI must decide a smaller number
-  of actions in comparison, for example, to the AI of FPS games, and this means that you can code the AI to increase the difficulty in hardermodes
+  of actions in comparison, for example, to the AI of FPS games, and this means that you can code the AI to increase the difficulty in harder modes
   of the game.
 - In turn-based combat games the difficulty curve is suitable for each player as they can practice as many times as they want.
 
@@ -83,7 +91,7 @@ All the actions of all the players are linked to the game clock. The duration of
 - Real-time combat games are more multiplayer-friendly than turn-based games.
 
 
-## _4.- History_
+## _4.- History:_
 
 If we have to talk about the history of turn-based combat in RPGs we have to start talking about Final Fantasy (1986), which included the formula on
 which many games would be based. In a part of the screen are the enemies and in the other the members of your team, each with special abilities.
