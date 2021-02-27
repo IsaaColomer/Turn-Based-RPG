@@ -1,10 +1,16 @@
 ## _Index_
+### - _0.- Introduction_
 ### - _1.- Differences in turn-based games_
 ### - _2.- Different kinds of turn-based combat systems_
 ### - _3.- Pros & Cons_
 ### - _4.- History_
 ### - _5.- Game combat analysis_
 ### - _6.- Bibliography_
+
+## _0.- Introduction_
+In this work we will see the different combat designs that we can find in turn-based RPGs. We will analyze the progress
+that has been made in different important games throughout history and finally we will analyze the combat systems of three
+games to see their differences and similarities.
 
 ## _1.- Differences in turn-based games:_
   There are two differentiated classes:
