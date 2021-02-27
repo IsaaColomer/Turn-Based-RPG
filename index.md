@@ -9,19 +9,19 @@
   - Sequential games, also called IGOUGO, can be subdivided into three sections, ranked, round-robin start, and random.
 
   - The **_ranked games_** are those in which the first player is the one who always starts first.
-  - The **_round-robins_** are decided by elimination.
-  - The **_random_** ones in which the first player is decided randomly.
+  - The **_round-robins_** are those in which the first player is decided by elimination.
+  - The **_random_** are those in which the first player is decided randomly.
 
 ## _2.- Different kinds of turn-based combat systems:_
 
 ### _2.1. Classic Turn-Based Game_
-   Players playing can spend all the time they want thinking about how to execute their next action, nothing in the game will move until
+   Players can spend all the time they want thinking about how to execute their next action, nothing in the game will move until
    they decide what to do.
    
 ![Image11](Img/PokemonBattleGif.gif) Pokémon: [Link](https://gfycat.com/cheerfulpopularamoeba-he-made-the-mistake-of-using-leer-or-something)
 
 ### _2.2. Active Time Battle_
-   First introduced by Hiroyuki Ito in Final Fantasy IV, also in Chrono Trigger, he turns of the people playing are determined by
+   First introduced by Hiroyuki Ito in Final Fantasy IV, also seen in Chrono Trigger, the turns of the people playing are determined by
    a counter that is restarted each time an action is performed.
    
 ![Image10](Img/ChronoTriggerGif.gif) Chrono Trigger: [Link](https://forums.rpgmakerweb.com/index.php?threads/chrono-trigger-battle-system-to-rgss1.85887/)
@@ -33,8 +33,8 @@
 ![Image12](Img/Ultima3png.png) Ultima III Exodus :[Link](https://en.wikipedia.org/wiki/Ultima_III:_Exodus#/media/File:Ultima_3_screenshot.png)   
 
 ### _2.4. Phase-Based Turns_
-   Also called We-Go, in this class of combat there are two distinct phases: decision phase and execution phase. In the    decision phase each
-   player decides that they will do their units, in the execution phase the units perform the previously chosen actions simultaneously.
+   Also called We-Go, in this class of combat there are two distinct phases: decision phase and execution phase. In the decision phase each
+   player decides what their units will do, in the execution phase the units perform the previously chosen actions simultaneously.
    
 ![Image13](Img/LaserSquadNemesis.jpg.png) Laser Squad Nemesis: [Link](https://en.wikipedia.org/wiki/Laser_Squad_Nemesis)
    
@@ -50,7 +50,7 @@ All the actions of all the players are linked to the game clock. The duration of
 ![Image15](Img/FinalFantasyTactics2.jpg.png) Final Fantasy Tactics: [Link](https://en.wikipedia.org/wiki/Final_Fantasy_Tactics#/media/File:JobClasses.jpg)
 
 ### _2.7. Actions outside a turn_
-   In some games like the saga X-How the players are allowed to act outside their turn, to be able to do it each unit must have, a minimum
+   In some games like the saga X-Com the players are allowed to act outside their turn. To be able to do it each unit must have, a minimum
    amount of points to be able to interrupt the other player and the actions that can carry out are limited by the number of points of the
    unit.
    
@@ -60,7 +60,7 @@ All the actions of all the players are linked to the game clock. The duration of
    In some turns players are required to follow certain rules set by the game, such as not attacking or moving all units.
    
 ### _2.9. Real-Time Based Games_
-   In another sphere, real-time based games are those in which the player timer matches with the game timer, that means that the action in the game is
+   In another sphere, real-time based games are those in which the player timer matches with the game timer, that means that all the actions in the game are
    always continued.
 
 ![Image17](Img/doom.jpg.png) Doom: [Link](https://arstechnica.com/gaming/2018/06/the-original-doom-cartridges-one-of-64-objects-that-shaped-video-game-history/)
