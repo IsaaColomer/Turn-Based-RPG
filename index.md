@@ -8,9 +8,9 @@
   - Simultaneous games are those in which players make decisions without knowing what other players have decided to do.
   - Sequential games, also called IGOUGO, can be subdivided into three sections, ranked, round-robin start, and random.
 
-  - The **_ranked games_** are those in which the first player is the one who always starts first.
-  - The **_round-robins_** are those in which the first player is decided by elimination.
-  - The **_random_** are those in which the first player is decided randomly.
+  - - The **_ranked games_** are those in which the first player is the one who always starts first.
+  - - The **_round-robins_** are those in which the first player is decided by elimination.
+  - - The **_random_** are those in which the first player is decided randomly.
 
 ## _2.- Different kinds of turn-based combat systems:_
 
