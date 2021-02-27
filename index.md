@@ -1,10 +1,10 @@
-##_Index_
-### _1.- Differences in turn-based games_
-### _2.- Different kinds of turn-based combat systems_
-### _3.- Pros & Cons_
-### _4.- History_
-### _5.- Game combat analysis_
-## _6.- Bibliography_
+## _Index_
+### - _1.- Differences in turn-based games_
+### - _2.- Different kinds of turn-based combat systems_
+### - _3.- Pros & Cons_
+### - _4.- History_
+### - _5.- Game combat analysis_
+### - _6.- Bibliography_
 
 ## _1.- Differences in turn-based games:_
   There are two differentiated classes:
