@@ -29,13 +29,15 @@
 ### _2.3. Timed Turns_
    This methodology exists to solve a question, how long a player's turn can last? Basically, each player has a limited time to perform
    an action.
+   
+  ![Image12](Img/Ultima3png.png) [Link](https://en.wikipedia.org/wiki/Ultima_III:_Exodus#/media/File:Ultima_3_screenshot.png)   
 
 ### _2.4. Phase-Based Turns_
    Also called We-Go, in this class of combat there are two distinct phases: decision phase and execution phase. In the    decision phase each
    player decides that they will do their units, in the execution phase the units perform the previously chosen actions simultaneously.
    
 ### _2.5. Clock-Based Turns_
-All the actions of all the players are directly linked to the game clock.
+All the actions of all the players are linked to the game clock. The duration of the turns is releated to the duration of the actions. 
 
 ### _2.6. Unit initiative_
    In this case the sequence of attacks depends on the initiative, which is an attribute of each unit, this attribute, in some cases, isn't always
