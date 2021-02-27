@@ -17,10 +17,12 @@
 ### _2.1. Classic Turn-Based Game_
    Players playing can spend all the time they want thinking about how to execute their next action, nothing in the game will move until
    they decide what to do.
-   
+![Image10](Img/PokemonBattleGif.gif) [Lnk](https://gfycat.com/cheerfulpopularamoeba-he-made-the-mistake-of-using-leer-or-something)
 ### _2.2. Active Time Battle_
    First introduced by Hiroyuki Ito in Final Fantasy IV, also in Chrono Trigger, he turns of the people playing are determined by
    a counter that is restarted each time an action is performed.
+   
+![Image10](Img/ChronoTriggerGif.gif) [Lnk](https://forums.rpgmakerweb.com/index.php?threads/chrono-trigger-battle-system-to-rgss1.85887/)
 
 ### _2.3. Timed Turns_
    This methodology exists to solve a question, how long a player's turn can last? Basically, each player has a limited time to perform
