@@ -37,7 +37,7 @@
    player decides that they will do their units, in the execution phase the units perform the previously chosen actions simultaneously.
    
 ### _2.5. Clock-Based Turns_
-All the actions of all the players are directly linked to the game clock.
+All the actions of all the players are directly linked to the game clock. The duration of the turns is releated to the duration of the actions. 
 
 ### _2.6. Unit initiative_
    In this case the sequence of attacks depends on the initiative, which is an attribute of each unit, this attribute, in some cases, isn't always
