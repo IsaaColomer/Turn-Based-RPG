@@ -50,7 +50,7 @@ All the actions of all the players are linked to the game clock. The duration of
 ![Image15](Img/FinalFantasyTactics2.jpg.png) Final Fantasy Tactics: [Link](https://en.wikipedia.org/wiki/Final_Fantasy_Tactics#/media/File:JobClasses.jpg)
 
 ### _2.7. Actions outside a turn_
-   In some games like the saga X-Com the players are allowed to act outside their turn. To be able to do it each unit must have, a minimum
+   In some games, like the saga X-Com, players are allowed to act outside their turn. To be able to do it each unit must have, a minimum
    amount of points to be able to interrupt the other player and the actions that can carry out are limited by the number of points of the
    unit.
    
