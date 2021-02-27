@@ -73,7 +73,7 @@ All the actions of all the players are linked to the game clock. The duration of
 ### _3.1. Pros_
 - The fact that there is no time limit for performing an action makes people who don’t like frantic games where you have to think and act fast
   able to enjoy this kind of games. This does not mean that the games are easy because in this class of games the AI must decide a smaller number
-  of actions in comparison, for example, to the - AI of FPS games, and this means that you can code the AI to increase the difficulty in hardermodes
+  of actions in comparison, for example, to the AI of FPS games, and this means that you can code the AI to increase the difficulty in hardermodes
   of the game.
 - In turn-based combat games the difficulty curve is suitable for each player as they can practice as many times as they want.
 
