@@ -191,7 +191,7 @@ The special attacks of the game usually have small areas so if you are lucky eno
 ### _5.3 Epic Seven_
 Epic Seven was released in 2018 for both IOS and Android, was created by Super Creative and published by Smilegate Megport.
 
-The combat system is based in the active time battle system, but in this case the ammount of time each character has to wait between attacks is descripted by their velocity stats.
+The combat system is based in the active time battle system, but in this case the amount of time each character has to wait between attacks is descripted by their velocity stats.
 
 In this game we have six different types of what are called heroes.
 
