@@ -209,9 +209,9 @@ The combat system in Epic Seven is based in the traditional game Rock-Paper-Scis
 - Light.
 - Dark.
 
-But in addition to that there's another layer of complexity, it's releated to the hitting system and this is how they are releated:
+But in addition to that there's another layer of complexity, it's related to the hitting system and this is how they are related:
 
-- Normal Hits: are based on the Attach stat of the character.
+- Normal Hits: are based on the Attack stat of the character.
 - Crushing Hits: apply 30% more of damage than a Normal Hit.
 - Miss Hit: have it's damage reduced in a 25%.
 - Critical Hits: are based on the Critical Hit Damage stat of the character.
