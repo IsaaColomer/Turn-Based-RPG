@@ -160,7 +160,7 @@ advantage with respect to its opponent.
 On the other hand there is the pokemon skills factor. There are two kinds of movements:
 
 - Those that directly harm the enemy.
-- Those that modify the characteristics of both the pokémon itself and that of the opponent.
+- Those that modify the characteristics of both the pokémon itself and the opponent.
 
 It should be mentioned that in the middle of the fight the trainers can decide to change the pokémon that is fighting or cure the one that is in the battlefield.
 
