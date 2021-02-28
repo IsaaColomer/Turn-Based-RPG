@@ -53,7 +53,7 @@ games to see their differences and similarities.
 ![Image13](Img/LaserSquadNemesis.jpg.png) Laser Squad Nemesis: [Link](https://en.wikipedia.org/wiki/Laser_Squad_Nemesis)
    
 ### _2.5. Clock-Based Turns_
-All the actions of all the players are linked to the game clock. The duration of the turns is releated to the duration of the actions.
+All the actions of all the players are linked to the game clock. The duration of the turns is related to the duration of the actions.
 
 ![Image14](Img/TyphoonOfSteel.jpg.png) Typhoon of Steel: [Link](https://www.youtube.com/watch?v=WaJCNMFiukI)
 
