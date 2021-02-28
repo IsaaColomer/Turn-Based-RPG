@@ -216,7 +216,7 @@ But in addition to that there's another layer of complexity, it's related to the
 - Miss Hit: have it's damage reduced in a 25%.
 - Critical Hits: are based on the Critical Hit Damage stat of the character.
 
-Every character can be equiped with armor and weapons which have their own quality ranking.
+Every character can be equipped with armor and weapons which have their own quality ranking.
 
 All this things putted together end up being a complex combat system with lots of things to know and take into account in order to defeat all the enemies and players.
 
