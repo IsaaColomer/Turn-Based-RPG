@@ -195,9 +195,9 @@ The combat system is based in the active time battle system, but in this case th
 
 In this game we have six different types of what are called heroes.
 
-- Warrior: straightforward melee combat, caracterised by it's high damage.
-- Knight: tank and support, are the ones incharged of keeping alive all the other units.
-- Thief: high attack and high speed, usually deal criticall damage.
+- Warrior: straightforward melee combat, characterised by it's high damage.
+- Knight: tank and support, are the ones in charge of keeping alive all the other units.
+- Thief: high attack and high speed, usually deal critical damage.
 - Mage: damage dealers, support, it all deppends on the character and their kit.
 - Ranger: more foccused to deal damaged through debuffs and dual attacks.
 - Soul Weaver: heal the other characters, but can also be used as a tank.
