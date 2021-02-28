@@ -1,3 +1,17 @@
+## _Index_
+- _0.- Introduction_
+- _1.- Differences in turn-based games_
+- _2.- Different kinds of turn-based combat systems_
+- _3.- Pros & Cons_
+- _4.- History_
+- _5.- Game combat analysis_
+- _6.- Bibliography_
+
+## _0.- Introduction_
+In this work we will see the different combat designs that we can find in turn-based RPGs. We will analyze the progress
+that has been made in different important games throughout history and finally we will analyze the combat systems of three
+games to see their differences and similarities.
+
 ## _1.- Differences in turn-based games:_
   There are two differentiated classes:
   
@@ -8,20 +22,20 @@
   - Simultaneous games are those in which players make decisions without knowing what other players have decided to do.
   - Sequential games, also called IGOUGO, can be subdivided into three sections, ranked, round-robin start, and random.
 
-  - The **_ranked games_** are those in which the first player is the one who always starts first.
-  - The **_round-robins_** are decided by elimination.
-  - The **_random_** ones in which the first player is decided randomly.
+    - The **_ranked games_** are those in which the first player is the one who always starts first.
+    - The **_round-robins_** are those in which the first player is decided by elimination.
+    - The **_random_** are those in which the first player is decided randomly.
 
 ## _2.- Different kinds of turn-based combat systems:_
 
 ### _2.1. Classic Turn-Based Game_
-   Players playing can spend all the time they want thinking about how to execute their next action, nothing in the game will move until
+   Players can spend all the time they want thinking about how to execute their next action, nothing in the game will move until
    they decide what to do.
    
 ![Image11](Img/PokemonBattleGif.gif) Pokémon: [Link](https://gfycat.com/cheerfulpopularamoeba-he-made-the-mistake-of-using-leer-or-something)
 
 ### _2.2. Active Time Battle_
-   First introduced by Hiroyuki Ito in Final Fantasy IV, also in Chrono Trigger, he turns of the people playing are determined by
+   First introduced by Hiroyuki Ito in Final Fantasy IV, also seen in Chrono Trigger, the turns of the people playing are determined by
    a counter that is restarted each time an action is performed.
    
 ![Image10](Img/ChronoTriggerGif.gif) Chrono Trigger: [Link](https://forums.rpgmakerweb.com/index.php?threads/chrono-trigger-battle-system-to-rgss1.85887/)
@@ -33,13 +47,13 @@
 ![Image12](Img/Ultima3png.png) Ultima III Exodus :[Link](https://en.wikipedia.org/wiki/Ultima_III:_Exodus#/media/File:Ultima_3_screenshot.png)   
 
 ### _2.4. Phase-Based Turns_
-   Also called We-Go, in this class of combat there are two distinct phases: decision phase and execution phase. In the    decision phase each
-   player decides that they will do their units, in the execution phase the units perform the previously chosen actions simultaneously.
+   Also called We-Go, in this class of combat there are two distinct phases: decision phase and execution phase. In the decision phase each
+   player decides what their units will do, in the execution phase the units perform the previously chosen actions simultaneously.
    
 ![Image13](Img/LaserSquadNemesis.jpg.png) Laser Squad Nemesis: [Link](https://en.wikipedia.org/wiki/Laser_Squad_Nemesis)
    
 ### _2.5. Clock-Based Turns_
-All the actions of all the players are linked to the game clock. The duration of the turns is releated to the duration of the actions.
+All the actions of all the players are linked to the game clock. The duration of the turns is related to the duration of the actions.
 
 ![Image14](Img/TyphoonOfSteel.jpg.png) Typhoon of Steel: [Link](https://www.youtube.com/watch?v=WaJCNMFiukI)
 
@@ -50,7 +64,7 @@ All the actions of all the players are linked to the game clock. The duration of
 ![Image15](Img/FinalFantasyTactics2.jpg.png) Final Fantasy Tactics: [Link](https://en.wikipedia.org/wiki/Final_Fantasy_Tactics#/media/File:JobClasses.jpg)
 
 ### _2.7. Actions outside a turn_
-   In some games like the saga X-How the players are allowed to act outside their turn, to be able to do it each unit must have, a minimum
+   In some games, like the saga X-Com, players are allowed to act outside their turn. To be able to do it each unit must have, a minimum
    amount of points to be able to interrupt the other player and the actions that can carry out are limited by the number of points of the
    unit.
    
@@ -60,7 +74,7 @@ All the actions of all the players are linked to the game clock. The duration of
    In some turns players are required to follow certain rules set by the game, such as not attacking or moving all units.
    
 ### _2.9. Real-Time Based Games_
-   In another sphere, real-time based games are those in which the player timer matches with the game timer, that means that the action in the game is
+   In another sphere, real-time based games are those in which the player timer matches with the game timer, that means that all the actions in the game are
    always continued.
 
 ![Image17](Img/doom.jpg.png) Doom: [Link](https://arstechnica.com/gaming/2018/06/the-original-doom-cartridges-one-of-64-objects-that-shaped-video-game-history/)
@@ -68,12 +82,12 @@ All the actions of all the players are linked to the game clock. The duration of
 ### _2.10. Extra Point_
    It must be said that many games have a combination of real-time and turn-based combat. Such as Total War and Jagged Alliance 2.
 
-## _3.- Pros & Cons_
+## _3.- Pros & Cons:_
 
 ### _3.1. Pros_
 - The fact that there is no time limit for performing an action makes people who don’t like frantic games where you have to think and act fast
   able to enjoy this kind of games. This does not mean that the games are easy because in this class of games the AI must decide a smaller number
-  of actions in comparison, for example, to the - AI of FPS games, and this means that you can code the AI to increase the difficulty in hardermodes
+  of actions in comparison, for example, to the AI of FPS games, and this means that you can code the AI to increase the difficulty in harder modes
   of the game.
 - In turn-based combat games the difficulty curve is suitable for each player as they can practice as many times as they want.
 
@@ -83,7 +97,7 @@ All the actions of all the players are linked to the game clock. The duration of
 - Real-time combat games are more multiplayer-friendly than turn-based games.
 
 
-## _4.- History_
+## _4.- History:_
 
 If we have to talk about the history of turn-based combat in RPGs we have to start talking about Final Fantasy (1986), which included the formula on
 which many games would be based. In a part of the screen are the enemies and in the other the members of your team, each with special abilities.
